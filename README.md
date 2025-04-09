@@ -5,8 +5,8 @@ The value is calculated as +1 for each occurrence of incr and -1 for decr.
 
 ## Example:
 ```
-sdlkfjincrsadldecrklejinincrsdčlgk = 2
-      ----    ----      ----
+sdlkfjincrsadldecrklejinincrsdčlgkincr = 2
+      ----    ----      ----      ----
 
 dslfkjdedecrxx = -1
         ----
